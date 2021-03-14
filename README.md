@@ -19,7 +19,7 @@
 - 💬 Ask me about Node.js , Golang , Reverse Proxies , Databases & anything which sounds *is that even possible?* .
 
 
-- Interested in Back-end & Infrastructure roles 👨‍💻
+- 💼 Interested in Back-end & Infrastructure roles 👨‍💻
 
 - 📫 How to reach me: **ravilochan2000@gmail.com** 
 
