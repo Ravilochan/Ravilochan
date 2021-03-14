@@ -2,8 +2,12 @@
 <h3>I'm Senior year student 👨‍🎓, Software Engineer 👨‍💻, Super enthusiastic 🤯 and fast leaner ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
-- 🔭 I’m currently working on finishing up my Senior year University Exams 🎓. 
+- 🔭 I’m currently working on finishing up my Senior year University Exams 🎓.
 
+- 🎓   Studying Computer Science and Information Technology at Oamania University, MVSR Engineering College.
+<!--
+- 💼   Working as a Backend Software Engineer at Statwig Private Limited. 
+-->
 - 🌱 I’m currently learning more about Kafka , Go lang , Traefik 👨‍💻.
 
 - 👯 I’m looking to collaborate on building my Bachelors Major Project 🦾.
@@ -15,7 +19,13 @@
 - 📫 How to reach me: **ravilochan2000@gmail.com**
 
 - ⚡ I Totally Believe : *Technology doesn't give you performance. Architecture is what gives you performance* 
-<img src="https://github-readme-stats.vercel.app/api?username=Ravilochan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<br>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Ravilochan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+-->
+<a href="https://github.com/Ravilochan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravilochan&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravilochan&theme=buefy&layout=compact" />
+</a>
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
