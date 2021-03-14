@@ -8,7 +8,7 @@
 <!--
 - 💼   Working as a Backend Software Engineer at Statwig Private Limited. 
 -->
-- 🌱 I’m currently learning more about <a href="https://kafka.apache.org">Kafka</a>,<a href="https://golang.org">Go lang </a>, <a href="https://traefik.io">Traefik</a> 👨‍💻.
+- 🌱 I’m currently learning more about <a href="https://kafka.apache.org">Kafka</a>,<a href="https://golang.org"> Golang </a>, <a href="https://traefik.io">Traefik</a> 👨‍💻.
 
 - 🧐 I recently got to Know about Functional Programming .. hmmm Interesting 🤔 
 
