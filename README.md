@@ -2,21 +2,26 @@
 <h3>I'm Senior year student 👨‍🎓, Software Engineer 👨‍💻, Super enthusiastic 🤯 and fast leaner ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
-- 🔭 I’m currently working on finishing up my Senior year University Exams 🎓.
+- 🔭 I’m currently working on finishing up my Final year University Exams 🎓.
 
-- 🎓   Studying Computer Science and Information Technology at Oamania University, MVSR Engineering College.
+- 🎓   Studying Computer Science and Information Technology at Osmania University, MVSR Engineering College , Hyderabad.
 <!--
 - 💼   Working as a Backend Software Engineer at Statwig Private Limited. 
 -->
-- 🌱 I’m currently learning more about Kafka , Go lang , Traefik 👨‍💻.
+- 🌱 I’m currently learning more about <a href="https://kafka.apache.org">Kafka</a>,<a href="https://golang.org">Go lang </a>, <a href="https://traefik.io">Traefik</a> 👨‍💻.
 
-- 👯 I’m looking to collaborate on building my Bachelors Major Project 🦾.
+- 🧐 I recently got to Know about Functional Programming .. hmmm Interesting 🤔 
+
+- 👯 I’m looking to collaborate on building my Bachelors Major Project on Distributed Sytems and Cloud Computing 🦾.
 
 - 🍽 Things on my plate for later - <a href="https://github.com/spring-projects/spring-boot">Spring Boot</a>, <a href="https://elixir-lang.org">Elixir</a>.
 
 - 💬 Ask me about Node.js , Golang , Reverse Proxies , Databases & anything which sounds *is that even possible?* .
 
-- 📫 How to reach me: **ravilochan2000@gmail.com**
+
+- Interested in Back-end & Infrastructure roles 👨‍💻
+
+- 📫 How to reach me: **ravilochan2000@gmail.com** 
 
 - ⚡ I Totally Believe : *Technology doesn't give you performance. Architecture is what gives you performance* 
 <br>
@@ -45,6 +50,13 @@
 <a href="https://www.python.org" target="_blank">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 </a>
+<a href="https://www.java.com/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-92414E?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+</a>
+<a href="https://www.php.net" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-593D88?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</a>
+
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /></a>
