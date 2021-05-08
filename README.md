@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
 - 🔭 I’m currently working on finishing up my Final year University Exams 🎓.
-
-- 🎓   Studying Computer Science and Information Technology at Osmania University, MVSR Engineering College , Hyderabad.
 <!--
+- 🎓   Studying Computer Science and Information Technology at Osmania University, MVSR Engineering College , Hyderabad.
+
 - 💼   Working as a Backend Software Engineer at Statwig Private Limited. 
 -->
 - 🌱 I’m currently learning more about <a href="https://kafka.apache.org">Kafka</a>,<a href="https://golang.org"> Golang </a>, <a href="https://traefik.io">Traefik</a> 
