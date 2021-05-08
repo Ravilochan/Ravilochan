@@ -1,5 +1,5 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Ravilochan Balla</h2>
-<h3>I'm Senior year student 👨‍🎓, Software Engineer 👨‍💻, Super enthusiastic 🤯 and fast leaner ⚡️</h3>
+<h3>I'm Senior year student , Software Engineer , Super enthusiastic  and fast leaner ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
 - 🔭 I’m currently working on finishing up my Final year University Exams 🎓.
@@ -8,18 +8,18 @@
 <!--
 - 💼   Working as a Backend Software Engineer at Statwig Private Limited. 
 -->
-- 🌱 I’m currently learning more about <a href="https://kafka.apache.org">Kafka</a>,<a href="https://golang.org"> Golang </a>, <a href="https://traefik.io">Traefik</a> 👨‍💻.
-
+- 🌱 I’m currently learning more about <a href="https://kafka.apache.org">Kafka</a>,<a href="https://golang.org"> Golang </a>, <a href="https://traefik.io">Traefik</a> 
+<!--
 - 🧐 I recently got to Know about Functional Programming .. hmmm Interesting 🤔 
 
 - 👯 I’m looking to collaborate on building my Bachelors Major Project on Distributed Sytems and Cloud Computing 🦾.
-
+-->
 - 🍽 Things on my plate for later - <a href="https://github.com/spring-projects/spring-boot">Spring Boot</a>, <a href="https://elixir-lang.org">Elixir</a>.
 
 - 💬 Ask me about Node.js , Golang , Reverse Proxies , Databases & anything which sounds *is that even possible?* .
 
 
-- 💼 Interested in Back-end & Infrastructure roles 👨‍💻
+- 💼 Interested in Back-end & Infrastructure roles 
 
 - 📫 How to reach me: **ravilochan2000@gmail.com** 
 
