@@ -1,8 +1,8 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Ravilochan Balla</h2>
-<h3>I'm Senior year student , Software Engineer , Super enthusiastic  and fast leaner ⚡️</h3>
+<h3>I'm Senior year student , Software Engineer , Super enthusiastic  and fast learner ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
-- 🔭 I’m currently working on finishing up my Final year University Exams 🎓.
+- 🔭 I’m attending Final year of Bachelors Degree University 🎓.
 <!--
 - 🎓   Studying Computer Science and Information Technology at Osmania University, MVSR Engineering College , Hyderabad.
 
