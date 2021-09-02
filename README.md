@@ -2,7 +2,7 @@
 <h3>I'm Senior year student , Software Engineer , Super enthusiastic  and fast learner ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
-- 🔭 I’m attending Final year of Bachelors Degree at Osmania University 🎓.
+<!-- - 🔭 I’m attending Final year of Bachelors Degree at Osmania University 🎓. -->
 <!--
 - 🎓   Studying Computer Science and Information Technology at Osmania University, MVSR Engineering College , Hyderabad.
 
