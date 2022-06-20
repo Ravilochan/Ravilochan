@@ -1,4 +1,5 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Ravilochan Balla</h2>
+<!-- <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Ravilochan Balla</h2> -->
+<h2>Hi there, I'm Ravilochan Balla</h2>
 <h3>I'm  a Software Engineer & pretty fast learner ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
