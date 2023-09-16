@@ -3,35 +3,31 @@
 <h3>I'm  a Software Engineer ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
-<!-- - 🔭 I’m attending Final year of Bachelors Degree at Osmania University 🎓. -->
-<!--
-- 🎓   Studying Computer Science and Information Technology at Osmania University, MVSR Engineering College , Hyderabad.
-
-- 💼   Working as a Backend Software Engineer at Statwig Private Limited. 
--->
+- 💼 Working as a Backend Software Engineer at Statwig Private Limited.
+  
 - 🌱 I’m currently learning more about <a href="https://kafka.apache.org">Kafka</a>,<a href="https://golang.org"> Golang </a>, <a href="https://traefik.io">Traefik</a> 
-<!--
-- 🧐 I recently got to Know about Functional Programming .. hmmm Interesting 🤔 
 
-- 👯 I’m looking to collaborate on building my Bachelors Major Project on Distributed Sytems and Cloud Computing 🦾.
--->
 - 🍽 Things on my plate for later - <a href="https://github.com/spring-projects/spring-boot">Spring Boot</a>, <a href="https://elixir-lang.org">Elixir</a>.
 
-- 💬 Ask me about Node.js , Golang , Reverse Proxies , Databases & anything which sounds *is that even possible?* .
+- 💬 Ask me about Node.js, Golang, Reverse Proxies, Databases & anything that sounds like *is that even possible?*.
 
+  
 
-- 💼 Interested in Back-end & Infrastructure roles 
+- 💼 **Open to New Jobs** Interested in Backend & Infrastructure roles 
 
 - 📫 How to reach me: **ravilochan2000@gmail.com** 
 
-- ⚡ I Totally Believe : *Technology doesn't give you performance. Architecture is what gives you performance* 
+- ⚡ my belief system : *Technology doesn't give you performance. Architecture is what gives you performance* 
 <br>
-<!--<img src="https://github-readme-stats.vercel.app/api?username=Ravilochan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=Ravilochan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
-<!-- <a href="https://github.com/Ravilochan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravilochan&theme=buefy&show_icons=true" />
+ <a href="https://github.com/Ravilochan">
+ <!--
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravilochan&theme=buefy&show_icons=true" />
+-->   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravilochan&theme=buefy&layout=compact" />
-</a> -->
+</a> 
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
@@ -105,11 +101,13 @@
 </p>
 
 <h3>Where To Find Me:</h3>
-<p><a href="https://g</h3>
-<p><a href="https://github.com/Ravilochan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/BRavilochan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ravilochan-balla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+<a href="https://twitter.com/BRavilochan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ravilochan-balla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Ravilochan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 <h3>My Projects:</h3>
 <p>
-Check the pinned repositories below. 👇
+Check a few of my pinned repositories below. 👇
 </p>
