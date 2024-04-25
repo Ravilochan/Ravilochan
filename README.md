@@ -2,7 +2,7 @@
 <h3>I'm a Software Engineer ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
-- 💼 Working as a Software Engineer - 2 at <a href="https://statwig.com/"> Statwig Technologies Private Limited </a>
+- 💼 Working as a Senior Software Engineer at <a href="https://statwig.com/"> Statwig Technologies Private Limited </a>
   
 - 🌱 Currently learning more about <a href="https://kafka.apache.org">Kafka</a> , <a href="https://github.com/phoenixframework/phoenix_live_view">Phenoix Live View</a> and <a href="https://en.wikipedia.org/wiki/Vector_database">Vector Databases</a> 
 
