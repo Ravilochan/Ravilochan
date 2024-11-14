@@ -4,11 +4,13 @@
 
 - 💼 Working as a Senior Software Engineer at <a href="https://statwig.com/"> Statwig Technologies Private Limited </a>
   
-- 🌱 Currently learning more about <a href="https://kafka.apache.org">Kafka</a> , <a href="https://github.com/phoenixframework/phoenix_live_view">Phenoix Live View</a> and <a href="https://en.wikipedia.org/wiki/Vector_database">Vector Databases</a> 
+- 🌱 Currently learning more about <a href="https://elixir-lang.org">Elixir</a>, <a href="https://github.com/phoenixframework/phoenix_live_view">Phenoix Live View</a> and <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">RAG</a> 
 
+<!--
 - 🍽 Things on my plate for later - <a href="https://github.com/spring-projects/spring-boot">Spring Boot</a> and <a href="https://elixir-lang.org">Elixir</a>
+-->
 
-- 💬 Ask me about Node.js, Micro Services, AWS, Golang, Reverse Proxies, Databases.
+- 💬 Ask me about Node.js, Micro Services, Architectures, Cloud, Reverse Proxies and Databases.
 
 - 💼 **Open to New Jobs** Interested in Backend & Infrastructure roles 
 
