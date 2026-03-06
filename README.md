@@ -1,8 +1,8 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Ravilochan Balla</h2>
-<h3>I'm a Software Engineer ⚡️</h3>
+<h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Ravilochan Balla</h2>
+<h3>I'm a Techical Expert, Polyglot Individual Contributor and Team Lead ⚡️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravilochan&label=Profile%20views&color=0e75b6&style=flat" alt="Ravilochan" /> </p>
 
-- 💼 Working as a Senior Software Engineer at <a href="https://statwig.com/"> Statwig Technologies Private Limited </a>
+- 💼 Working as a Tech Lead at <a href="https://statwig.com/"> Statwig Technology Services</a>
   
 - 🌱 Currently learning more about <a href="https://elixir-lang.org">Elixir</a>, <a href="https://github.com/phoenixframework/phoenix_live_view">Phenoix Live View</a> and <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">RAG</a> 
 
@@ -120,7 +120,7 @@
 <a href="https://npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" /> </a>
 
 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" /> </a> 
